@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/colorbox.css">
+
+    <script src="scripts/jquery.min.js"></script>
+    <script src="scripts/jquery.colorbox-min.js"></script>
+    <script src="scripts/jquery.lettering.js"></script>
+
+</head>
+  <body>
+<h1 class="fancy_title">This is about letters</h1>
+
+<div class="">
+  <a class='gallery' href='images/1.jpg'>Photo_1</a>
+  <a class='gallery' href='images/2.jpg'>Photo_2</a>
+  <a class='gallery' href='images/3.jpg'>Photo_3</a>
+</div>
+
+
+    <a class='picto' href='images/image1.jpg'></a>
+      <a target="gallery" href="images/image1.jpg">
+    <img src="images/1.jpg" alt="Jackie">
+  </a>
+    <a class='picto' href='images/image2.jpg'></a>
+    <a target="gallery" href="images/image2.jpg">
+  <img src="images/2.jpg" alt="Jackie">
+</a>
+    <a class='picto' href='images/image3.jpg'></a>
+    <a target="gallery" href="images/image3.jpg">
+  <img src="images/3.jpg" alt="Jackie">
+</a>
+
+
+<script>
+$ ('a.gallery'). colorbox ({rel:'gal'});
+
+</script>
+<script>
+	  $(document).ready(function() {
+	    $(".fancy_title").lettering();
+	  });
+</script>
+
+
+</html>
