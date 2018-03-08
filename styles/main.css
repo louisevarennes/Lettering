@@ -1,148 +1,149 @@
-h1 span {
-  padding : 1em;
-  margin : 0.5em;
+h1 {
+  text-align: center;
+  color: #914D55;
+  font-size: 8em;
+  font-family: 'Gotham Ultra', cursive;
 
 }
 
 
-
 .char1 {
-  color: red;
+  color: #C44976;
   font-size: 4em;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Sabon LT Std', cursive;
 
 }
 
 
 .char2 {
-   color: red;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
  .char3 {
-   color: red;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
  .char4 {
-   color: red;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
  .char5 {
-   color: red;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
 
  .char6 {
-   color: red;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
 .char7 {
-   color: yellow;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
  .char8 {
-   color: red;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
  .char9 {
-   color: blue;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
  .char10 {
-   color: pink;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
 
 .char11 {
-   color: red;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
  .char12 {
-   color: red;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
  .char13 {
-   color: red;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
  .char14 {
-   color: red;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
 
  .char15 {
-   color: red;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
 .char16 {
-   color: #DD994E;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
 
 .char17 {
-   color: #4EDD8C;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
  .char18 {
-   color: #4E9DDD;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
  .char19 {
-   color: red;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
  .char20 {
-   color: #DD514E;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
 
  .char21 {
-   color: red;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
 .char22 {
-   color: yellow;
+   color: #C44976;
    font-size: 2em;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Sabon LT Std', cursive;
 }
 
 
@@ -158,4 +159,12 @@ body{ background-color:
 
 img:hover {
     box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.thumb {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  text-align: center;
+
 }
