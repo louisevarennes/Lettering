@@ -3,10 +3,13 @@ h1 {
   color: #914D55;
   font-size: 8em;
   font-family: 'Gotham Ultra', cursive;
-
 }
 
-
+.char1 {
+  font-size: 4em;
+  color: #202651;
+  font-family: ScalaSans Black
+}
 
 
 body{ background-color:
@@ -30,3 +33,10 @@ img:hover {
   text-align: center;
 
 }
+
+p{
+  text-align: center;
+  color: #202651;
+  font-size: 2em;
+  font-family: 'PlumBAE', cursive;
+  }
